@@ -1,0 +1,5 @@
+BannerVeriz = BannerVertical izquierdo
+BannerVerdr = BannerVertical derecho
+
+BannerHoriz = BannerHorizontal izquierdo
+BannerHordr = BannerHorizontal derecho
