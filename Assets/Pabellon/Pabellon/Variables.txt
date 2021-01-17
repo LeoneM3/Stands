@@ -3,3 +3,5 @@ BannerVerdr = BannerVertical derecho
 
 BannerHoriz = BannerHorizontal izquierdo
 BannerHordr = BannerHorizontal derecho
+
+ExpoMypeHor = Logo horizontal de expomype
